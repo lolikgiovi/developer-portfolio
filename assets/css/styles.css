@@ -116,7 +116,7 @@ nav ul li {
 }
 
 .bio {
-  width: 25rem;
+  width: 40rem;
   padding: 0.625rem;
   border-radius: 6px;
   box-shadow: 0px 2px 15px 2px var(--primary-shadow);
@@ -133,7 +133,7 @@ nav ul li {
 /* Hero section ends */
 
 /* More about */
-.more-about {
+/* .more-about {
   background-color: var(--bg-color);
   padding: 1rem 6rem;
 }
@@ -146,7 +146,7 @@ nav ul li {
 .more-about p {
   line-height: var(--line-height);
   padding: 0.4rem;
-}
+} */
 /* More about ends */
 
 /* Skills section */
@@ -215,7 +215,7 @@ nav ul li {
 /* Projects section ends */
 
 /* Contacts section */
-.contact {
+/* .contact {
   margin-top: 2rem;
 }
 
@@ -275,7 +275,7 @@ nav ul li {
   background-color: var(--primary-color);
   border: 2px solid var(--primary-color);
   cursor: pointer;
-}
+} */
 /* Contacts section ends */
 
 /* Social buttons */
